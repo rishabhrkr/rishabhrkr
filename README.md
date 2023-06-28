@@ -5,7 +5,7 @@
 <p align="left">
 	<br/>
 - 🔭 Student<br/>
-- 🌱 Expertise in Pthon<br/>
+- 🌱 Expertise in Python<br/>
 - 🤝 Available for freelancing<br/>
 - 💬 Ask me about Python<br/>
 - 📫 How to reach me **rishabh77799@gmail.com** <br/>
