@@ -4,10 +4,10 @@
 <h3 font-weight: "bold">A Passionate Software developer from India <img src="https://i.pinimg.com/originals/60/04/30/600430c1d22c731b94cf4e7dae6b398a.gif" margin-top:"40" width="60px"></h3>
 <p align="left">
 	<br/>
-- 🔭 Working on Web Development(React.Js)<br/>
+- 🔭 Student<br/>
 - 🌱 Expertise in Pthon<br/>
 - 🤝 Available for freelancing<br/>
-- 💬 Ask me about **Reactjs & DSA**<br/>
+- 💬 Ask me about Python<br/>
 - 📫 How to reach me **rishabh77799@gmail.com** <br/>
 
 </p>
