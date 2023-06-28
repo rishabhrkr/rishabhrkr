@@ -36,15 +36,17 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
 </p>
 </p>
-
-
-
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrkr&theme=algolia" alt="rishabhrkr"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thelalitagarwal&theme=algolia" alt="Thelalitagarwal"  /></p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
+![snake animation](https://github.com/rishabhrkr/rishabhrkr/blob/output/github-contribution-grid-snake2.svg)
+
+
+
+
 ![snake gif](https://raw.githubusercontent.com/rishabhrkr/rishabhrkr/output/github-contribution-grid-snake.svg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
