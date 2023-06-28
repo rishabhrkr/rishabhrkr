@@ -44,6 +44,5 @@
 ## Just a Snake 🐍 Eating away my Contributions...😭
 
 
-![snake gif](https://raw.githubusercontent.com/rishabhrkr/rishabhrkr/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://github.com/rishabhrkr/rishabhrkr/blob/output/github-contribution-grid-snake2.svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
