@@ -42,7 +42,7 @@
 
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake animation](https://github.com/rishabhrkr/rishabhrkr/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://raw.githubusercontent.com/rishabhrkr/rishabhrkr/output/github-contribution-grid-snake.svg)
 
 
 
